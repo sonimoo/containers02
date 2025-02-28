@@ -17,7 +17,6 @@
 
 1. Скачиваю и устанавливаю Docker Desktop с официального сайта. 
 
-![image](img/download.jpg)
 ![image](img/installing.jpg)
 
 2. Убеждаюсь в том, что докер установлен вылолнив команду `docker --version`
